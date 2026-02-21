@@ -57,5 +57,11 @@ This dashboard highlights overall sales growth, product performance, and top sal
 - Business Performance Analysis  
 
 ---
+## 👨‍💻 Author
+**Samee Khan**  
+Aspiring Data Analyst | Power BI | Python | SQL  
+
+GitHub: https://github.com/samee-khan777 
+---
 
 If you found this project useful, feel free to ⭐ the repository.
